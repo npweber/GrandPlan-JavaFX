@@ -1,0 +1,5 @@
+﻿C:\Program Files\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(377,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  cpb_CPPBridge.cpp
+c:\users\nathan\documents\visual studio 2017\projects\grandplanapi\grandplanapi\dataunit.h(12): warning C4091: 'typedef ': ignored on left of 'DataUnit' when no variable is declared
+c:\users\nathan\documents\visual studio 2017\projects\grandplanapi\grandplanapi\cpb_cppbridge.cpp(143): error C2065: 'rrr': undeclared identifier
+c:\users\nathan\documents\visual studio 2017\projects\grandplanapi\grandplanapi\cpb_cppbridge.cpp(144): error C2143: syntax error: missing ';' before '}'

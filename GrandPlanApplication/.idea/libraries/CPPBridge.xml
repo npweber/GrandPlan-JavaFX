@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="CPPBridge">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/CPPBridge.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
