@@ -25,12 +25,3 @@ Take advantage of the smart weekly navigation controls. By selecting a month in 
 ## Specifications
 
 GrandPlan-JavaFX is written in, namely, JavaFX and consists of a front and backend implementation. The backend however, does not utilize `java.util.calendar` because this project was a college final for *Intro to OOP with C++* and needed to be written in C++. So, I made a personal decision to write a custom C++ backend to implement the calendar functionality. A C++ API that can load and edit the contents of a week from 2018 from cache was the result of the effort. This was then JNI compiled to be called by a Java reference, and then a backend could be used in turn to give the calendar functionality.
-
-
- ## **Author**
-Nathan Weber
-
-**GitHub** [@npweber](https://github.com/npweber/)
-
-***Many thanks!***
-
